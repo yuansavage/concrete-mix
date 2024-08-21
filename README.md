@@ -79,9 +79,12 @@ The tests cover the following aspects (under _test_ folder):
 
 ## Technologies Used
 
-React: JavaScript library for building user interfaces.
-Chart.js: JavaScript library for creating charts.
-React-Chartjs-2: React wrapper for Chart.js.
-MobX: Simple, scalable state management solution.
-Jest: JavaScript testing framework.
-React Testing Library: Library for testing React components.
+```
+React
+Chart.js
+React-Chartjs-2
+MobX
+TailwindCSS
+Jest
+React Testing Library
+```
