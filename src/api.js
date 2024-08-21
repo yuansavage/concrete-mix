@@ -1,7 +1,6 @@
 import axios from "axios";
 
 const url = "https://fp-ardrecruiting-prod-001-func.azurewebsites.net/api";
-const token = "7MgoynPHf5raP8BhstcQ3PT7nnbDjqyXSQsP8iTX";
 
 const api = {
     getConcreteList: () => {
